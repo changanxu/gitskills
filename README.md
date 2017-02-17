@@ -5,8 +5,12 @@
  and simple
 >>>>>>> featurel
  add merge
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 fix bugs
 =======
  im working
 >>>>>>> Stashed changes
+=======
+ im working
+>>>>>>> dev
